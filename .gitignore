@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+# VSCode
+.vscode/
+# Django
+db.sqlite3
+/static/
+/media/
+# Byte-compiled / optimized / DLL files
+*.pyo
+*.pyd
+# macOS
+.DS_Store
